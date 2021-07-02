@@ -1,2 +1,2 @@
-# Chal-Hotel
+# Chalé-Hotel
 Treinando site flexisivel
